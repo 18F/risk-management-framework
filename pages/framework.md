@@ -1,0 +1,6 @@
+---
+permalink: /framework/
+title: Framework
+---
+
+...
