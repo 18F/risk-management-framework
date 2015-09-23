@@ -1,0 +1,6 @@
+---
+permalink: /goals/
+title: Goals
+---
+
+...
