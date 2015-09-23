@@ -14,7 +14,7 @@ name of your repository, so you don't have to do that yourself.
 
 For example, when run locally, the URL for this guide is
 `http://localhost:4000/`. In production, the URL is
-`https://pages.18f.gov/guides-template/`.
+`https://pages.18f.gov/guides-template/`. ...
 
 The URLs of the individual section pages are relative to the `baseurl:`. For
 example, the `permalink:` of this page is `{{page.permalink}}`. The full local
