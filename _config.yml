@@ -29,26 +29,30 @@ navigation:
 - text: Introduction
   url: index.html
   internal: true
-- text: Add a new page
+- text: Problems
   url: add-a-new-page/
   internal: true
-  children:
-  - text: Make a child page
-    url: make-a-child-page/
-    internal: true
-- text: Update the config file
+- text: Goals
   url: update-the-config-file/
   internal: true
   children:
-  - text: Understanding the `baseurl:` property
-    url: understanding-baseurl/
-    internal: true
-- text: GitHub setup
+- text: Framework
   url: github-setup/
   internal: true
-- text: Post your guide
+- text: NIST Requirements
   url: post-your-guide/
   internal: true
+- text: Tools
+  url: post-your-guide/
+  internal: true
+- text: Write Into the Framework
+  url: post-your-guide/
+  internal: true
+- text: Reports and Audits
+  url: post-your-guide/
+  internal: true
+
+
 
 repos:
 - name: Risk Management Framework
