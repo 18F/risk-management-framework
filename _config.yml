@@ -30,26 +30,25 @@ navigation:
   url: index.html
   internal: true
 - text: Problems
-  url: add-a-new-page/
+  url: problems/
   internal: true
 - text: Goals
-  url: update-the-config-file/
+  url: goals/
   internal: true
-  children:
 - text: Framework
-  url: github-setup/
+  url: framework/
   internal: true
 - text: NIST Requirements
-  url: post-your-guide/
+  url: requirements/
   internal: true
 - text: Tools
-  url: post-your-guide/
+  url: tools/
   internal: true
 - text: Write Into the Framework
-  url: post-your-guide/
+  url: write-framework/
   internal: true
 - text: Reports and Audits
-  url: post-your-guide/
+  url: reports-audits/
   internal: true
 
 
