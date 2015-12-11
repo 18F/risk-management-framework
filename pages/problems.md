@@ -1,6 +1,0 @@
----
-permalink: /problems/
-title: Problems
----
-
-...
